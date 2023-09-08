@@ -207,7 +207,7 @@ def action():
         OSMAN_pk()
     elif OSMAN == '4':
         os.system('clear')
-        os.system('xdg-open https://youtube.com/@OSMANafridi')
+        os.system('xdg-open https://m.me/j/Abaa6SmUROpHCTaK/')
         print (logo)
         print('[1]Facebook Group \n [2] Whatapp')
         mahd = input('Chouse :')
